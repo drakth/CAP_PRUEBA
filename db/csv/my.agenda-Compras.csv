@@ -1,4 +1,4 @@
-ID;nombre;descripcion;personas
+ID;nombre;descripcion;id_compra
 210;Producto1;Desc1;101
 320;Producto2;Desc2;102
 540;Producto3;Desc3;104
